@@ -1,4 +1,6 @@
 .active{
     background-color: bisque;
     border: 2px solid orange;
+    padding: 20px;
+    width: 300px;
 }
